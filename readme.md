@@ -59,13 +59,6 @@
 
 The programmer will utilize conditional and looping statement to showcase skills on producing code using PHP. There are rules to be followed such us, the programmer can choose 2 between: Declarations, Conditional, and Lopping statements. Also, the rules does not include functions, class, and input. 
 
-### Key Components
-
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-
-- Authentication & Authorization
-- CRUD Operations for Invetory System
 
 ### Technology
 
